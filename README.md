@@ -6,6 +6,29 @@
 - 05111940000219 M Rizqi Fiqih Thalib
 
 ## VLSM (Variable Length Subnet Masking) 
+
+Perhitungan Subnet : 
+| Subnet  | Jumlah IP | Netmask |
+| :----:| :-----: | :---: |
+| A1 | 1001 | 22 |
+| A2 | 13  | 28 |
+| A3 | 502 | 23 |
+| A4 | 2 | 30 |
+| A5 | 2 | 30 |
+| A6 | 2 | 30 |
+| A7 | 101 | 25 |
+| A8 | 701 | 22 |
+| A9 | 2021 | 21 |
+| A10 | 521 | 22 |
+| A11 | 2 | 30 |
+| A12 | 721 | 22 |
+| A13 | 252 | 24 |
+| Total | 5841 | 19 |
+
+
+![image](https://user-images.githubusercontent.com/62735317/143676342-5d84420b-118e-4a08-b7fc-b63d66e72b05.png)
+
+
 Lingkaran VLSM : 
 ![Lingkaran VLSM](https://user-images.githubusercontent.com/62735317/143675573-74c2a358-046e-4c3a-80c1-bb5f042c3c72.jpg)
 
