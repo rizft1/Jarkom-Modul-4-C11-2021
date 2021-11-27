@@ -48,8 +48,10 @@ Perhitungan Subnet :
 ![6](https://user-images.githubusercontent.com/62735317/143675720-a0015369-c97b-41a7-b0b7-09b9ca3cda08.jpg)
 ![7](https://user-images.githubusercontent.com/62735317/143675723-1d85b19a-1d7e-4e59-a97b-2e13d14fc54d.jpg)
 
-![image](https://user-images.githubusercontent.com/62735317/143676935-c304a16a-3ae0-4a26-a2da-ed9d703ab8e8.png)
-![image](https://user-images.githubusercontent.com/62735317/143676966-2dd6efc6-96ce-4c89-8f8a-553d4cb24ba0.png)
 
 Pohon CIDR : 
 ![Pohon CIDR](https://user-images.githubusercontent.com/62735317/143675730-17a8db4b-e150-4bc8-a4c9-450c91b81b1e.jpg)
+
+![image](https://user-images.githubusercontent.com/62735317/143676935-c304a16a-3ae0-4a26-a2da-ed9d703ab8e8.png)
+![image](https://user-images.githubusercontent.com/62735317/143676966-2dd6efc6-96ce-4c89-8f8a-553d4cb24ba0.png)
+
