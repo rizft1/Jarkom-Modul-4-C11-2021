@@ -25,18 +25,16 @@ Perhitungan Subnet :
 | A13 | 252 | 24 |
 | Total | 5841 | 19 |
 
+Pohon VLSM : 
+![Pohon VLSM](https://user-images.githubusercontent.com/62735317/143675589-caf40479-816a-478c-93b2-49287cd4a052.jpg)
 
 ![image](https://user-images.githubusercontent.com/62735317/143676342-5d84420b-118e-4a08-b7fc-b63d66e72b05.png) 
 ![image](https://user-images.githubusercontent.com/62735317/143676846-7f99ca58-6d07-45aa-8644-6a9559398921.png)
 
 
-
-
 Lingkaran VLSM : 
 ![Lingkaran VLSM](https://user-images.githubusercontent.com/62735317/143675573-74c2a358-046e-4c3a-80c1-bb5f042c3c72.jpg)
 
-Pohon VLSM : 
-![Pohon VLSM](https://user-images.githubusercontent.com/62735317/143675589-caf40479-816a-478c-93b2-49287cd4a052.jpg)
 
 
 ## CIDR (Classless Inter Domain Routing)
