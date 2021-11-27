@@ -26,7 +26,10 @@ Perhitungan Subnet :
 | Total | 5841 | 19 |
 
 
-![image](https://user-images.githubusercontent.com/62735317/143676342-5d84420b-118e-4a08-b7fc-b63d66e72b05.png)
+![image](https://user-images.githubusercontent.com/62735317/143676342-5d84420b-118e-4a08-b7fc-b63d66e72b05.png) 
+![image](https://user-images.githubusercontent.com/62735317/143676846-7f99ca58-6d07-45aa-8644-6a9559398921.png)
+
+
 
 
 Lingkaran VLSM : 
@@ -38,7 +41,7 @@ Pohon VLSM :
 
 ## CIDR (Classless Inter Domain Routing)
 
-
+Perhitungan Subnet : 
 ![1](https://user-images.githubusercontent.com/62735317/143675712-4471e8ed-5971-4423-8ba8-b681ba5c5e35.jpg)
 ![2](https://user-images.githubusercontent.com/62735317/143675713-e7afa238-0aee-4413-bdcd-e6d6ab7484ee.jpg)
 ![3](https://user-images.githubusercontent.com/62735317/143675715-fae9871f-e94f-48d0-9216-35fa531d2c33.jpg)
@@ -46,6 +49,9 @@ Pohon VLSM :
 ![5](https://user-images.githubusercontent.com/62735317/143675719-9738aa92-cc70-4b3e-abad-20fa79d52971.jpg)
 ![6](https://user-images.githubusercontent.com/62735317/143675720-a0015369-c97b-41a7-b0b7-09b9ca3cda08.jpg)
 ![7](https://user-images.githubusercontent.com/62735317/143675723-1d85b19a-1d7e-4e59-a97b-2e13d14fc54d.jpg)
+
+![image](https://user-images.githubusercontent.com/62735317/143676935-c304a16a-3ae0-4a26-a2da-ed9d703ab8e8.png)
+![image](https://user-images.githubusercontent.com/62735317/143676966-2dd6efc6-96ce-4c89-8f8a-553d4cb24ba0.png)
 
 Pohon CIDR : 
 ![Pohon CIDR](https://user-images.githubusercontent.com/62735317/143675730-17a8db4b-e150-4bc8-a4c9-450c91b81b1e.jpg)
